@@ -4,6 +4,6 @@ El proyecto Gideon consiste en el uso de inteligencia artificial para el intérp
 Toda la documentación es libre y gratuita bajo la licencia MIT y se puede encontrar en el repositorio de [GitHub oficial](http://github.com/luxarts/Gideon).
 
 ### Links útiles
-- [Voicecommand 3.0 (STT)](http://stevenhickson.blogspot.com.ar/2013/06/voice-command-v30-for-raspberry-pi.html)
+- [Voice Command 3.0 (STT)](http://stevenhickson.blogspot.com.ar/2013/06/voice-command-v30-for-raspberry-pi.html)
 - [Hotspot WIFI automático](http://www.raspberryconnect.com/network/item/315-rpi3-auto-wifi-hotspot-if-no-internet)
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)
