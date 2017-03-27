@@ -5,5 +5,8 @@ Toda la documentación es libre y gratuita bajo la licencia MIT y se puede encon
 
 ### Links útiles
 - [Voice Command 3.0 (STT)](http://stevenhickson.blogspot.com.ar/2013/06/voice-command-v30-for-raspberry-pi.html)
+- [eSpeak (TTS)](http://espeak.sourceforge.net)
+  - [Solución errores ALSA](https://www.raspberrypi.org/forums/viewtopic.php?p=913285#p913285)
+  - [Archivos de voz](http://espeak.sourceforge.net/voices.html)
 - [Hotspot WIFI automático](http://www.raspberryconnect.com/network/item/315-rpi3-auto-wifi-hotspot-if-no-internet)
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)
