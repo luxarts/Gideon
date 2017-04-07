@@ -9,6 +9,7 @@ Toda la documentación es libre y gratuita bajo la licencia MIT y se puede encon
   - [Solución errores ALSA](https://www.raspberrypi.org/forums/viewtopic.php?p=913285#p913285)
   - [Archivos de voz](http://espeak.sourceforge.net/voices.html)
 - [Sphinx (STT)](http://blog.xavigonzalez.net/index.php/2015/07/reconocimiento-de-voz-con-raspberry-pi-howto/)
+  - [Modelos de lenguaje](https://www.raspberrypi.org/forums/viewtopic.php?f=76&t=105867)
 - [Hotspot WIFI automático](http://www.raspberryconnect.com/network/item/315-rpi3-auto-wifi-hotspot-if-no-internet)
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/)
 - [Argumentos en scripts de Python](https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/)
