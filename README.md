@@ -17,3 +17,4 @@ Toda la documentación es libre y gratuita bajo la licencia MIT y se puede encon
 - [Script de Python ejecutable](https://www.modmypi.com/blog/how-to-make-python-programs-executable)
 - [Ejecutar comando en segundo plano](http://raultomas.me/ejecucion-de-comandos-en-segundo-plano-sobre-linux/)
 - [Conexión a MySQL a través de Python](http://stackoverflow.com/a/622308)
+  - [Info sobre MySQLdb](https://www.python.org/dev/peps/pep-0249/)
