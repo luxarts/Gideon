@@ -16,3 +16,4 @@ Toda la documentación es libre y gratuita bajo la licencia MIT y se puede encon
 - [Argumentos en scripts de Python](https://www.cyberciti.biz/faq/python-command-line-arguments-argv-example/)
 - [Script de Python ejecutable](https://www.modmypi.com/blog/how-to-make-python-programs-executable)
 - [Ejecutar comando en segundo plano](http://raultomas.me/ejecucion-de-comandos-en-segundo-plano-sobre-linux/)
+- [Conexión a MySQL a través de Python](http://stackoverflow.com/a/622308)
