@@ -22,8 +22,10 @@
             if($row = mysqli_fetch_array($sql, MYSQLI_BOTH)) {
                 $_SESSION['id'] = $row['id']; // creamos la sesion "usuario_id" y le asignamos como valor el campo usuario_id
                 $_SESSION['usuario'] = $row["usuario"]; // creamos la sesion "usuario_nombre" y le asignamos como valor el campo usuario_nombre
+                $_SESSION['errorlogin'] = 0;
                 header("Location: http://".$_SERVER['HTTP_HOST']."/index.php");
             }else {
+                $_SESSION['errorlogin'] = 1;
                 header("Location: http://".$_SERVER['HTTP_HOST']."/index.php");
 ?>
 <?php

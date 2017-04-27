@@ -1,0 +1,81 @@
+body{
+	background: #000;
+	color: #FFF;
+	font-size: 14px;
+	font-family: Consolas, monaco, monospace;
+}
+img#logo{
+	width: 300px;
+	display: block;
+	margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto
+}
+form#login{
+	background: #111;
+	border: 5px solid #FFF;
+	margin: 0 auto;
+	padding: 10px;
+	width: 300px;
+}
+form#login div{
+	margin-bottom: 5px;
+	overflow: hidden;
+}
+form#login div label{
+	display: block;
+	float: left;
+	line-height: 25px;
+	color: #F00;
+}
+form#login div input[type="text"], form#login div input[type="password"]{
+	background: #333;
+	border: 1px solid #FFF;
+	float: right;
+	padding: 4px;
+	color: #FFF;
+}
+form#login div input[type="submit"]{
+	background: #222;
+	border: 1px solid #F00;
+	color: #F00;
+	margin-top: 10px;
+	padding: 10px;
+	width: 100%;
+	font-weight: bold;
+}
+form#login div input[type="submit"]:hover{
+	background: #500;
+	color: #FFF;
+	border: 1px solid #FFF;
+}
+p#errorlogin{
+	text-align: center;
+	color: #F00;
+}
+a{
+	color: #F00;
+}
+a:hover{
+	color: #FFF;
+}
+div#left{
+	float: left;
+}
+div#voicelog {
+	text-align: center;
+}
+div#voicelog iframe{
+	border: 2px solid #F00;
+	background: #111;
+}
+div#player{
+	margin-top: 20px;
+}
+h1{
+	color: #F00;
+	font-size: 20px;
+	font-weight: 900;
+	text-decoration: underline;
+}
+

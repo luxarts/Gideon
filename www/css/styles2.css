@@ -1,0 +1,121 @@
+*{
+	font-size: 14px;
+	font-family: consolas;
+}
+form.login {
+	background: none repeat scroll 0 0 #101010;
+	border: 5px solid #FFF;
+	margin: 0 auto;
+	padding: 20px;
+	width: 278px;
+}
+form.login div {
+	margin-bottom: 15px;
+	overflow: hidden;
+}
+form.login div label {
+	display: block;
+	float: left;
+	line-height: 25px;
+	color: #FF0000;
+}
+form.login div input[type="text"], form.login div input[type="password"] {
+	background: none repeat scroll 0 0 #666;
+	border: 1px solid #FFF;
+	float: right;
+	padding: 4px;
+	color: #FFF;
+}
+form.login div input[type="submit"] {
+	background: none repeat scroll 0 0 #111;
+	border: 1px solid #FFF;
+	float: right;
+	font-weight: bold;
+	padding: 4px 20px;
+	color: #F00;
+}
+form.decir {
+	background: none repeat scroll 0 0 #111;
+	border: 2px solid #F00;
+	margin: 0 auto;
+	height: 140px;
+	width: 316px;
+	padding: 5px;
+	position: absolute;
+	left: 753px;
+	top: 200px
+}
+form.decir input[type="submit"]{
+	background: none repeat scroll 0 0 #111;
+	border: 1px solid #FFF;
+	font-weight: bold;
+	color: #F00;
+	position: absolute;
+	top: 115px;
+	left: 5px;
+	width: 315px;
+	height: 30px;
+}
+form.buttons div {
+	overflow: hidden;
+}
+form.buttons div input[type="submit"] {
+	background: none repeat scroll 0 0 #111;
+	border: 1px solid #A00;
+	float: left;
+	font-weight: bold;
+	padding: 4px 5px;
+	color: #F00;
+}
+div.clock{
+	position: absolute;
+	background: none repeat scroll 0 0 #111;
+	border: 1px solid #F00;
+	color: #FFF;
+	font-size: 12px;
+	padding: 10px;
+	text-align: center;
+}
+div.clock div{
+	font-size: 20px;
+
+}
+div.title{
+	position: absolute;
+	color: red;
+	font-size: 20px;
+	font-weight: 900;
+	text-decoration: underline;
+}
+div.title a{
+	color: red;
+	font-size: 20px;
+	font-weight: 900;
+	text-decoration: underline;
+}
+div.footer{
+	width: 99%;
+	position: absolute;
+	bottom: 0px;
+	text-align: center;
+	color: #AAA;
+	font-size: 12px;
+}
+div.footer a{
+	color: #BBB;
+	font-size: 12px;
+}
+div.footer a:hover{
+	color: #F00;
+	font-size: 12px;
+}
+iframe{
+	background: none repeat scroll 0 0 #111;
+	border: 2px solid #F00;
+}
+.error{
+	color: #FFF;
+	font-weight: bold;
+	margin: 10px;
+	text-align: center;
+}
